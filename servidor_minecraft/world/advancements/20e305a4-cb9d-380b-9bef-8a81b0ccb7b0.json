@@ -13,6 +13,7 @@
       "minecraft:forest": "2025-06-08 22:54:08 +0000",
       "minecraft:ocean": "2025-06-08 23:01:53 +0000",
       "minecraft:sunflower_plains": "2025-06-08 23:05:09 +0000",
+      "minecraft:meadow": "2025-06-09 00:32:18 +0000",
       "minecraft:plains": "2025-06-08 23:02:09 +0000",
       "minecraft:jagged_peaks": "2025-06-08 23:30:48 +0000"
     },
@@ -576,6 +577,18 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-06-08 23:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-09 00:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-09 00:23:38 +0000"
     },
     "done": true
   },
