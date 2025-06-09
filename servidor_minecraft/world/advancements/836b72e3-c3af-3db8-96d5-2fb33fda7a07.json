@@ -367,7 +367,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-08 23:20:35 +0000",
       "minecraft:spider": "2025-06-08 23:03:25 +0000",
-      "minecraft:zombie": "2025-06-08 23:31:08 +0000"
+      "minecraft:zombie": "2025-06-08 23:31:08 +0000",
+      "minecraft:zombie_villager": "2025-06-09 21:59:22 +0000"
     },
     "done": false
   },
@@ -1400,6 +1401,24 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-06-08 23:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-09 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-09 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-09 21:59:23 +0000"
     },
     "done": true
   },
