@@ -107,3 +107,35 @@
 [22:39:25] [Server thread/INFO]: [Fenix5000: Teleported Fenix5000 to p1w3n15]
 [22:41:45] [Server thread/INFO]: arcwarden22 lost connection: Disconnected
 [22:41:45] [Server thread/INFO]: arcwarden22 left the game
+[22:46:23] [Server thread/INFO]: paloma_f lost connection: Disconnected
+[22:46:23] [Server thread/INFO]: paloma_f left the game
+[22:48:44] [Server thread/INFO]: [Not Secure] <Fenix5000> que fue
+[22:48:59] [Server thread/INFO]: [Not Secure] <p1w3n15> ya se fueron
+[22:49:11] [Server thread/INFO]: [Not Secure] <JackPersa> si xd
+[22:49:31] [Server thread/INFO]: [Not Secure] <Fenix5000> lo apago mas tarde lo enciendo para jugarcon todos
+[22:49:31] [Server thread/INFO]: [Not Secure] <p1w3n15> ya apagalo
+[22:49:37] [Server thread/INFO]: [Not Secure] <JackPersa> xD
+[22:49:38] [Server thread/INFO]: [Not Secure] <Fenix5000> XD
+[22:49:39] [Server thread/INFO]: [Not Secure] <JackPersa> tmr
+[22:49:47] [Server thread/INFO]: [Not Secure] <p1w3n15> apagalo
+[22:49:48] [Server thread/INFO]: [Not Secure] <JackPersa> por eso nunca acabo esta mrd
+[22:49:59] [Server thread/INFO]: [Not Secure] <p1w3n15> en serio apagalo
+[22:50:06] [Server thread/INFO]: Fenix5000 lost connection: Disconnected
+[22:50:06] [Server thread/INFO]: Fenix5000 left the game
+[22:50:09] [Server thread/INFO]: [Not Secure] <JackPersa> ptm
+[22:50:12] [Server thread/INFO]: [Not Secure] <p1w3n15> XD
+[22:50:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:50:20] [Server thread/INFO]: STOP<--[HERE]
+[22:50:24] [Server thread/INFO]: Stopping the server
+[22:50:24] [Server thread/INFO]: Stopping server
+[22:50:24] [Server thread/INFO]: Saving players
+[22:50:24] [Server thread/INFO]: JackPersa lost connection: Server closed
+[22:50:24] [Server thread/INFO]: JackPersa left the game
+[22:50:24] [Server thread/INFO]: Saving worlds
+[22:50:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:50:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:50:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:50:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:50:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:50:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:50:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
