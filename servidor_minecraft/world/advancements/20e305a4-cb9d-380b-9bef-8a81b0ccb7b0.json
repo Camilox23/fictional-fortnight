@@ -188,6 +188,7 @@
       "cooked_porkchop": "2025-06-08 23:38:04 +0000",
       "mutton": "2025-06-08 23:17:51 +0000",
       "apple": "2025-06-08 23:36:57 +0000",
+      "chicken": "2025-06-10 21:30:01 +0000",
       "bread": "2025-06-08 23:55:19 +0000",
       "rotten_flesh": "2025-06-08 23:27:06 +0000",
       "cooked_mutton": "2025-06-08 23:36:36 +0000",
@@ -1113,9 +1114,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-10 21:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-10 21:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-06-10 21:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-10 21:33:15 +0000"
     },
     "done": true
   },
@@ -1124,6 +1143,12 @@
       "minecraft:nether_wastes": "2025-06-10 21:27:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-10 21:29:54 +0000"
+    },
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -1137,15 +1162,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-10 21:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-06-10 21:27:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-10 21:33:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-06-10 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-10 21:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-10 21:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-10 21:33:15 +0000"
     },
     "done": true
   },
@@ -1164,6 +1219,30 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-06-10 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-10 21:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-10 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-10 21:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-10 21:33:15 +0000"
     },
     "done": true
   },

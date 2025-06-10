@@ -39,3 +39,7 @@
 [21:28:02] [Server thread/INFO]: arcwarden22 joined the game
 [21:29:02] [Server thread/INFO]: Fenix5000 has made the advancement [What a Deal!]
 [21:29:28] [Server thread/INFO]: [Fenix5000: Set the time to 1000]
+[21:35:48] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=5001, y=139, z=874} iw{x=5001, y=141, z=874}
+[21:37:50] [Server thread/INFO]: [Fenix5000: Set own game mode to Spectator Mode]
+[21:38:57] [Server thread/INFO]: [Fenix5000: Set the time to 1000]
+[21:39:04] [Server thread/INFO]: [Fenix5000: Set own game mode to Survival Mode]

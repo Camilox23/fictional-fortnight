@@ -10,13 +10,16 @@
       "minecraft:flower_forest": "2025-06-08 23:24:09 +0000",
       "minecraft:snowy_slopes": "2025-06-08 23:25:21 +0000",
       "minecraft:beach": "2025-06-08 23:04:47 +0000",
+      "minecraft:dark_forest": "2025-06-10 21:37:01 +0000",
       "minecraft:forest": "2025-06-08 22:51:42 +0000",
+      "minecraft:dripstone_caves": "2025-06-08 23:43:07 +0000",
       "minecraft:ocean": "2025-06-08 23:02:58 +0000",
       "minecraft:sunflower_plains": "2025-06-08 23:10:06 +0000",
+      "minecraft:grove": "2025-06-10 21:34:48 +0000",
       "minecraft:meadow": "2025-06-08 23:25:16 +0000",
-      "minecraft:dripstone_caves": "2025-06-08 23:43:07 +0000",
       "minecraft:plains": "2025-06-08 23:04:32 +0000",
-      "minecraft:jagged_peaks": "2025-06-08 23:25:38 +0000"
+      "minecraft:jagged_peaks": "2025-06-08 23:25:38 +0000",
+      "minecraft:pale_garden": "2025-06-10 21:35:39 +0000"
     },
     "done": false
   },
@@ -1179,6 +1182,18 @@
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-10 01:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-10 21:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-10 21:35:47 +0000"
     },
     "done": true
   },
