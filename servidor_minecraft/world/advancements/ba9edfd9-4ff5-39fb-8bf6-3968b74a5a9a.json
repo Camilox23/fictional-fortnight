@@ -709,6 +709,8 @@
       "cooked_porkchop": "2025-06-08 23:33:57 +0000",
       "chicken": "2025-06-09 00:08:08 +0000",
       "bread": "2025-06-08 23:13:44 +0000",
+      "cooked_chicken": "2025-06-10 01:20:06 +0000",
+      "cooked_mutton": "2025-06-10 01:35:43 +0000",
       "cooked_beef": "2025-06-08 23:40:06 +0000"
     },
     "done": false
@@ -751,9 +753,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-09 22:33:26 +0000",
       "minecraft:skeleton": "2025-06-08 23:30:33 +0000",
+      "minecraft:enderman": "2025-06-10 01:30:37 +0000",
       "minecraft:spider": "2025-06-08 23:34:03 +0000",
-      "minecraft:zombie": "2025-06-08 23:20:23 +0000"
+      "minecraft:zombie": "2025-06-08 23:20:23 +0000",
+      "minecraft:creeper": "2025-06-09 22:17:36 +0000"
     },
     "done": false
   },
@@ -997,15 +1002,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "has_stone": "2025-06-09 21:58:43 +0000"
+      "has_iron_pickaxe": "2025-06-09 21:45:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "has_smooth_stone": "2025-06-09 21:59:17 +0000"
+      "iron_pickaxe": "2025-06-09 21:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-06-09 21:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-09 21:58:43 +0000"
     },
     "done": true
   },
@@ -1018,18 +1035,6 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-09 21:58:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_pickaxe": "2025-06-09 21:45:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-06-09 21:45:44 +0000"
     },
     "done": true
   },
@@ -1069,12 +1074,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_pickaxe": "2025-06-09 21:45:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-06-09 21:58:43 +0000"
@@ -1093,6 +1092,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-09 21:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-09 21:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-09 21:59:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-06-09 21:59:17 +0000"
@@ -1105,15 +1122,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "has_stone": "2025-06-09 21:58:43 +0000"
+      "has_feather": "2025-06-09 22:30:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_stone": "2025-06-09 21:58:43 +0000"
+      "deflected_projectile": "2025-06-09 22:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-09 22:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-09 22:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-09 22:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-10 01:17:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-10 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-10 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-10 01:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-10 01:32:03 +0000"
     },
     "done": true
   },

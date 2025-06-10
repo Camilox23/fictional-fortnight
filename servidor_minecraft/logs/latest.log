@@ -1,98 +1,89 @@
-[21:21:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:21:13] [ServerMain/INFO]: Loaded 1373 recipes
-[21:21:13] [ServerMain/INFO]: Loaded 1484 advancements
-[21:21:13] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[21:21:13] [Server thread/INFO]: Loading properties
-[21:21:13] [Server thread/INFO]: Default game type: SURVIVAL
-[21:21:13] [Server thread/INFO]: Generating keypair
-[21:21:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:21:14] [Server thread/INFO]: Using epoll channel type
-[21:21:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:21:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:21:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:21:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:21:14] [Server thread/INFO]: Preparing level "world"
-[21:21:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:21:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:21:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:21:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:21:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:21:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:21:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:21:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:21:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:21:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:21:19] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:21:19] [Server thread/INFO]: Time elapsed: 4795 ms
-[21:21:19] [Server thread/INFO]: Done (5.265s)! For help, type "help"
-[21:21:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:21:19] [Server thread/INFO]: <--[HERE]
-[21:22:14] [Server thread/INFO]: arcwarden22[/127.168.71.220:36405] logged in with entity id 7 at (5273.638205864187, 249.24918707874468, 948.6032293706547)
-[21:22:14] [Server thread/INFO]: arcwarden22 joined the game
-[21:22:50] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=5267, y=248, z=946} iw{x=5266, y=248, z=946}
-[21:28:20] [Server thread/INFO]: Fenix5000[/127.213.131.254:36193] logged in with entity id 1055 at (5275.5032458438045, 248.0, 949.9356586096335)
-[21:28:20] [Server thread/INFO]: Fenix5000 joined the game
-[21:31:47] [Server thread/INFO]: [Not Secure] <Fenix5000> IMI CALTA
-[21:31:51] [Server thread/INFO]: [Not Secure] <Fenix5000> calata
-[21:34:01] [Server thread/INFO]: TuPaolin[/127.105.20.54:59501] logged in with entity id 2075 at (122.5, 74.0, -143.5)
-[21:34:01] [Server thread/INFO]: TuPaolin joined the game
-[21:34:08] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:09] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:10] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:17] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:19] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:20] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:21] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:22] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:23] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:26] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:27] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:27] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=75, z=-142}
-[21:34:31] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:32] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:34] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:35] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:37] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:38] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=0, y=0, z=0} iw{x=121, y=74, z=-142}
-[21:34:40] [Server thread/INFO]: [Fenix5000: Teleported 3 entities to Fenix5000]
-[21:35:11] [Server thread/INFO]: JackPersa[/127.7.66.238:42509] logged in with entity id 2611 at (5122.300000011921, 149.0, 839.2724169303056)
-[21:35:11] [Server thread/INFO]: JackPersa joined the game
-[21:35:46] [Server thread/INFO]: [Fenix5000: Set the time to 1000]
-[21:37:21] [Server thread/INFO]: TuPaolin has made the advancement [Stone Age]
-[21:38:02] [Server thread/INFO]: paloma_f[/127.184.55.218:38791] logged in with entity id 3737 at (5236.21663874605, 95.125, 710.0089917638484)
-[21:38:02] [Server thread/INFO]: paloma_f joined the game
-[21:39:28] [Server thread/INFO]: TuPaolin has made the advancement [Acquire Hardware]
-[21:39:43] [Server thread/INFO]: TuPaolin has made the advancement [Isn't It Iron Pick]
-[21:44:26] [Server thread/INFO]: [Not Secure] <JackPersa> construyo una casa en la aldea o por la montaña?
-[21:44:37] [Server thread/INFO]: [Not Secure] <Fenix5000> en la montaña
-[21:44:50] [Server thread/INFO]: [Not Secure] <TuPaolin> vuelvo mas rato
-[21:45:00] [Server thread/INFO]: TuPaolin lost connection: Disconnected
-[21:45:00] [Server thread/INFO]: TuPaolin left the game
-[21:45:26] [Server thread/INFO]: JackPersa has made the advancement [Light as a Rabbit]
-[21:45:44] [Server thread/INFO]: arcwarden22 has made the advancement [Isn't It Iron Pick]
-[21:46:24] [Server thread/INFO]: [Fenix5000: Set the time to 1000]
-[21:47:03] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=5214, y=97, z=758} iw{x=5214, y=95, z=759}
-[21:47:06] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=5202, y=95, z=754} iw{x=5202, y=93, z=755}
-[21:49:36] [Server thread/INFO]: [Fenix5000: Teleported paloma_f to Fenix5000]
-[21:52:39] [Server thread/INFO]: paloma_f has made the advancement [Country Lode, Take Me Home]
-[21:53:51] [Server thread/INFO]: [Not Secure] <Fenix5000> sanchez perrita entra al meet
-[21:53:54] [Server thread/INFO]: [Not Secure] <JackPersa> xd
-[21:53:57] [Server thread/INFO]: [Not Secure] <JackPersa> no
-[21:54:01] [Server thread/INFO]: [Not Secure] <paloma_f> XDD
-[21:57:15] [Server thread/INFO]: Fenix5000 has made the advancement [Acquire Hardware]
-[21:59:33] [Server thread/INFO]: Villager cru['Armorer'/881, l='ServerLevel[world]', x=5208.30, y=96.00, z=767.03] died, message: 'Armorer was slain by Zombie'
-[22:02:58] [Server thread/INFO]: [Fenix5000: Set own game mode to Creative Mode]
-[22:03:21] [Server thread/INFO]: [Not Secure] <JackPersa> haganlo de dia
-[22:03:35] [Server thread/INFO]: [Fenix5000: Set the time to 1000]
-[22:03:41] [Server thread/INFO]: [Not Secure] <JackPersa> gracias
-[22:03:48] [Server thread/INFO]: [Not Secure] <Fenix5000> entren al meet
-[22:04:12] [Server thread/INFO]: [Fenix5000: Set own game mode to Survival Mode]
-[22:07:39] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=5373, y=160, z=940} iw{x=5375, y=161, z=945}
-[22:08:04] [Server thread/INFO]: Fenix5000 has made the advancement [Hot Stuff]
-[22:08:30] [Server thread/INFO]: [Fenix5000: Teleported Fenix5000 to JackPersa]
-[22:08:35] [Server thread/INFO]: [Not Secure] <JackPersa> xd
-[22:08:44] [Server thread/INFO]: [Not Secure] <Fenix5000> ta bonito
-[22:08:53] [Server thread/INFO]: [Not Secure] <JackPersa> gracias
-[22:09:12] [Server thread/INFO]: [Fenix5000: Teleported Fenix5000 to paloma_f]
-[22:09:22] [Server thread/INFO]: [Not Secure] <Fenix5000> xd
-[22:09:57] [Server thread/INFO]: [Fenix5000: Teleported Fenix5000 to JackPersa]
+[01:05:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:05:06] [ServerMain/INFO]: Loaded 1373 recipes
+[01:05:06] [ServerMain/INFO]: Loaded 1484 advancements
+[01:05:06] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[01:05:06] [Server thread/INFO]: Loading properties
+[01:05:06] [Server thread/INFO]: Default game type: SURVIVAL
+[01:05:06] [Server thread/INFO]: Generating keypair
+[01:05:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:05:07] [Server thread/INFO]: Using epoll channel type
+[01:05:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:05:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:05:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:05:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:05:07] [Server thread/INFO]: Preparing level "world"
+[01:05:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:05:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:05:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:05:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:05:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:05:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:05:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:05:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:05:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:05:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:05:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:05:12] [Server thread/INFO]: Time elapsed: 4936 ms
+[01:05:12] [Server thread/INFO]: Done (5.402s)! For help, type "help"
+[01:05:48] [Server thread/INFO]: JackPersa[/127.7.66.238:44711] logged in with entity id 6 at (5380.373469252905, 157.0, 943.2089872504819)
+[01:05:48] [Server thread/INFO]: JackPersa joined the game
+[01:08:54] [Server thread/INFO]: Fenix5000[/127.213.131.254:39249] logged in with entity id 768 at (5270.199999988079, 126.5, 803.1274112857454)
+[01:08:54] [Server thread/INFO]: Fenix5000 joined the game
+[01:14:21] [Server thread/INFO]: [Not Secure] <JackPersa> encontre un bosque gris xD
+[01:14:42] [Server thread/INFO]: [Not Secure] <Fenix5000> XD
+[01:15:24] [Server thread/INFO]: [Not Secure] <JackPersa> hacer lo de dia porfa xd
+[01:15:38] [Server thread/INFO]: [Fenix5000: Set the time to 1000]
+[01:15:42] [Server thread/INFO]: [Not Secure] <JackPersa> gracias
+[01:16:12] [Server thread/INFO]: arcwarden22[/127.168.71.220:55735] logged in with entity id 2855 at (5234.401066056012, 79.0, 563.6188891813287)
+[01:16:12] [Server thread/INFO]: arcwarden22 joined the game
+[01:17:54] [Server thread/INFO]: [Not Secure] <arcwarden22> dejen entrar a la llamada gigiri
+[01:17:59] [Server thread/INFO]: arcwarden22 has made the advancement [We Need to Go Deeper]
+[01:18:03] [Server thread/INFO]: [Not Secure] <JackPersa> acapta jersa
+[01:18:12] [Server thread/INFO]: [Not Secure] <Fenix5000> me sali de la llamada
+[01:18:15] [Server thread/INFO]: [Not Secure] <JackPersa> xD
+[01:19:18] [Server thread/INFO]: [Fenix5000: Set own game mode to Creative Mode]
+[01:20:34] [Server thread/INFO]: [Fenix5000: Set own game mode to Survival Mode]
+[01:21:04] [Server thread/INFO]: Fenix5000 was slain by Zombie
+[01:21:08] [Server thread/INFO]: [Not Secure] <JackPersa> xd
+[01:22:03] [Server thread/INFO]: [Not Secure] <arcwarden22> no agarre nada
+[01:22:08] [Server thread/INFO]: [Not Secure] <Fenix5000> gracias
+[01:27:42] [Server thread/INFO]: [Not Secure] <arcwarden22> necesitas antorchas?
+[01:27:46] [Server thread/INFO]: [Not Secure] <Fenix5000> no
+[01:29:53] [Server thread/INFO]: [Not Secure] <JackPersa> hacerlo de dai porfa xd
+[01:30:09] [Server thread/INFO]: [Fenix5000: Teleported 3 entities to Fenix5000]
+[01:31:08] [Server thread/INFO]: Villager cru['Cleric'/621, l='ServerLevel[world]', x=5254.42, y=95.00, z=775.52] died, message: 'Cleric was slain by Zombie'
+[01:31:15] [Server thread/INFO]: [Not Secure] <arcwarden22> XD
+[01:31:16] [Server thread/INFO]: [Not Secure] <JackPersa> xDDDDDDDDDDDDD
+[01:31:22] [Server thread/INFO]: [Not Secure] <Fenix5000> tmr
+[01:31:53] [Server thread/INFO]: [Fenix5000: Set the time to 1000]
+[01:32:15] [Server thread/INFO]: [Not Secure] <arcwarden22> JERSA QUIERES ARMADURA?
+[01:32:20] [Server thread/INFO]: [Not Secure] <Fenix5000> no
+[01:32:24] [Server thread/INFO]: [Not Secure] <Fenix5000> asi nomas
+[01:32:50] [Server thread/INFO]: [Not Secure] <JackPersa> se dice pero igual gracias
+[01:32:57] [Server thread/INFO]: [Not Secure] <arcwarden22> xd
+[01:33:07] [Server thread/INFO]: [Not Secure] <Fenix5000> calla de la boca sin viejo
+[01:33:13] [Server thread/INFO]: [Not Secure] <arcwarden22> xds
+[01:33:15] [Server thread/INFO]: [Not Secure] <JackPersa> xddd
+[01:33:18] [Server thread/INFO]: [Not Secure] <Fenix5000> por tu culpa se rompio mi casa
+[01:33:25] [Server thread/INFO]: [Not Secure] <arcwarden22> fue por mi culpa xD
+[01:33:28] [Server thread/INFO]: [Not Secure] <JackPersa> fue el creper
+[01:33:32] [Server thread/INFO]: [Not Secure] <JackPersa> pa nadie
+[01:33:36] [Server thread/INFO]: [Not Secure] <arcwarden22> o bueno a mi me siguiò el creeper XD
+[01:36:56] [Server thread/INFO]: [Fenix5000: Set own game mode to Creative Mode]
+[01:37:34] [Server thread/INFO]: [Fenix5000: Set own game mode to Survival Mode]
+[01:42:04] [Server thread/INFO]: [Fenix5000: Set the time to 1000]
+[01:42:54] [Server thread/INFO]: [Not Secure] <arcwarden22> perdon xd
+[01:42:57] [Server thread/INFO]: [Not Secure] <Fenix5000> XD
+[01:44:05] [Server thread/INFO]: [Not Secure] <Fenix5000> joshep unete al meet
+[01:44:11] [Server thread/INFO]: [Not Secure] <arcwarden22> wait
+[01:44:37] [Server thread/INFO]: [Not Secure] <arcwarden22> gigiri acepta
+[01:47:43] [Server thread/INFO]: JackPersa lost connection: Disconnected
+[01:47:43] [Server thread/INFO]: JackPersa left the game
+[01:49:36] [Server thread/INFO]: [Not Secure] <Fenix5000> de habla owen
+[01:49:39] [Server thread/INFO]: [Not Secure] <Fenix5000> XD
+[01:50:40] [Server thread/INFO]: [Not Secure] <arcwarden22> CULOWEN DE MIERDA
+[01:50:43] [Server thread/INFO]: [Not Secure] <Fenix5000> xd
+[01:50:46] [Server thread/INFO]: [Not Secure] <arcwarden22> MI HERMANA ESTA A MI LADO
+[01:52:13] [Server thread/INFO]: p1w3n15[/127.19.163.181:39579] logged in with entity id 13650 at (5302.355590186217, 191.48863855420652, 949.3900996331264)
+[01:52:13] [Server thread/INFO]: p1w3n15 joined the game
+[01:54:36] [Server thread/INFO]: [Fenix5000: Set the time to 1000]
