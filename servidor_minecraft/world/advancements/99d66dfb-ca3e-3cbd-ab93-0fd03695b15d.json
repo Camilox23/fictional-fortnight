@@ -1162,13 +1162,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "has_logs": "2025-06-11 21:50:16 +0000"
+      "has_porkchop": "2025-06-11 21:38:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-11 21:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-06-11 21:38:58 +0000"
     },
@@ -1180,9 +1186,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_porkchop": "2025-06-11 21:38:58 +0000"
+      "has_logs": "2025-06-11 21:50:16 +0000"
     },
     "done": true
   },
@@ -1192,9 +1198,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
-      "has_porkchop": "2025-06-11 21:38:58 +0000"
+      "has_log": "2025-06-11 22:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-11 22:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-11 22:20:41 +0000"
     },
     "done": true
   },
