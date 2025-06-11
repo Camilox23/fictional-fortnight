@@ -1187,15 +1187,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pale_oak_slab": {
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
     "criteria": {
-      "has_planks": "2025-06-10 22:20:21 +0000"
+      "has_log": "2025-06-10 21:35:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed": {
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
     "criteria": {
-      "has_gray_wool": "2025-06-10 22:35:18 +0000"
+      "has_log": "2025-06-10 21:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-10 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-10 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-10 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-10 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-10 22:20:21 +0000"
     },
     "done": true
   },
@@ -1211,27 +1241,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-06-10 21:59:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-06-10 22:24:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/pale_oak_button": {
     "criteria": {
       "has_planks": "2025-06-10 22:20:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-06-10 21:59:23 +0000"
     },
     "done": true
   },
@@ -1247,21 +1259,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-06-10 22:25:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pale_oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-10 22:20:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+  "minecraft:recipes/redstone/pale_oak_pressure_plate": {
     "criteria": {
-      "has_cornflower": "2025-06-10 22:24:39 +0000"
+      "has_planks": "2025-06-10 22:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-10 22:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-10 22:24:36 +0000"
     },
     "done": true
   },
@@ -1271,15 +1289,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pale_oak_planks": {
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
     "criteria": {
-      "has_log": "2025-06-10 21:35:47 +0000"
+      "has_cornflower": "2025-06-10 22:24:39 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-06-10 22:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-06-10 22:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-10 22:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-06-10 22:35:18 +0000"
     },
     "done": true
   },
@@ -1292,42 +1328,6 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-06-10 22:35:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-06-10 21:59:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_bowl": "2025-06-10 22:24:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/pale_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-10 22:20:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-06-10 21:59:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pale_oak_sign": {
-    "criteria": {
-      "has_planks": "2025-06-10 22:20:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pale_oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-10 21:35:47 +0000"
     },
     "done": true
   },
